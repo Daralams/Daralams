@@ -4,7 +4,7 @@
 <hr style="border: 0.5px solid #ddd;" />
 
 ### Hi, my name is Mangandaralam Sakti! 👋
-
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saktimangandaralam@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangandaralam-sakti/) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mangandaralamsakti) 
 <br/>
