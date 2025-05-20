@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=F7B42C&center=true&vCenter=true&width=435&lines=Programmer;Odoo+Developer;Backend+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=F7B42C&center=true&vCenter=true&width=435&lines=Programmer;Odoo+Developer;Fullstack+Developer" alt="Typing Animation" />
 </div>
 <hr style="border: 0.5px solid #ddd;" />
 
